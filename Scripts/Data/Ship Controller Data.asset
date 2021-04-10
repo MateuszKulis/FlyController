@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8a47d2923050a9a4da55126ba009d811, type: 3}
+  m_Name: Ship Controller Data
+  m_EditorClassIdentifier: 
+  forwardSpeed: 25
+  strafeSpeed: 10
+  hoverSpeed: 10
+  forwardAcceleration: 10
+  strafeAcceleration: 10
+  hoverAcceleration: 10
+  lookRateSpeed: 90
+  lookSlowdownSpeed: 5
+  rollSpeed: 90
+  rollAcceleration: 3.5
+  isSave: 0
+  _forwardSpeed: 25
+  _strafeSpeed: 7.5
+  _hoverSpeed: 5
+  _forwardAcceleration: 2.5
+  _strafeAcceleration: 2
+  _hoverAcceleration: 2
+  _lookRateSpeed: 90
+  _lookSlowdownSpeed: 5
+  _rollSpeed: 90
+  _rollAcceleration: 3.5
